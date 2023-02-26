@@ -5,13 +5,13 @@ import plotly.express as px
 import platform
 plt = platform.system()
 if plt == 'Linnux': pathlib.Windows = pathlib.PosixPath
-temp =  pathlib.PosixPath
+#temp =  pathlib.PosixPath
 
 
 #title
 st.title('Transport(Boat, Airplane, Car) Classificator')
 
-#upload a img
+#upload an image
 file= st.file_uploader('Upload a picture', type=['jpeg'])
 if file:
     st.image(file)
