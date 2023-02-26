@@ -6,4 +6,4 @@ You can check this model by the link below:
 https://behzcd-transport-classificator-app-2vc8e6.streamlit.app/
 
 
-![image](https://user-images.githubusercontent.com/114143258/221443591-25189fe2-9fac-4a16-8498-6e1bc65dc749.png)
+![image](https://user-images.githubusercontent.com/114143258/221443647-7b73a63d-21c5-430e-8683-091b081a101f.png)
