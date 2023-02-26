@@ -6,7 +6,7 @@ import platform
 plt = platform.system()
 if plt == 'Linnux': pathlib.Windows = pathlib.PosixPath
 temp =  pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
+
 
 #title
 st.title('Transport(Boat, Airplane, Car) Classificator')
